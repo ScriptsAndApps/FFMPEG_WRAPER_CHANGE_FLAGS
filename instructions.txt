@@ -7,5 +7,5 @@
 Now your program will use the altered arguments if done corretly
 
 I use it for programs that do not allow you to convert full audio/video length, so it will ignore the -t limit 
-you can use any argument you want to alter (if the argument not exists use ADD_ARGUMENTS_HERE to add them)
+you can use any argument you want to alter (use ADD_ARGUMENTS_HERE to add additional arguments)
 
